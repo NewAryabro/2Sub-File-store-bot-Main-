@@ -35,8 +35,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 START_PIC = os.environ.get("START_PIC", "https://graph.org/file/97bdc7009062e5d9ef867-2f4e47d5efdcf6038b.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/0338e5f9959b111abc01b.jpg")
 
-HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Telugu_Movies_999\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Telugu_Movies_999>Telugu_movies_999</a></b>"
-ABOUT_TXT = "<b>💓 Owner (Arya) : <a href=https://t.me/Arya_Bro>Arya_Bro</a>\n🫡 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Telugu_movies_999>Telugu_movies_999</a>\n🥵 L€@k$: <a href=https://t.me/+4QSB2tPk-ME2NDdl>L€@k$ </a>\n 🔞 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+aph6xGmeXgU2NzFl>ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ</a>\n🫰 ғɪʟᴛᴇʀ ʙᴏᴛ : <a href=https://ᴀʀʏᴀs_ᴍᴏᴠɪᴇs_ғɪɴᴅᴇʀ_ʙᴏᴛ> 🫰 ғɪʟᴛᴇʀ ʙᴏᴛ</a></b>"
+HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Telugu_Movies_999\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Telugu_Movies_999>Telugu Movies 999 💓</a></b>"
+ABOUT_TXT = "<b>💓 Owner (Arya) : <a href=https://t.me/Arya_Bro>Arya Bro❤‍🔥</a>\n🫡 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Telugu_movies_999>Telugu Movies 999</a>\n🥵 L€@k$: <a href=https://t.me/+4QSB2tPk-ME2NDdl>clg girl and luvrs 😛</a>\n 🔞 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+aph6xGmeXgU2NzFl>Adult Movies</a>\n🫰 ғɪʟᴛᴇʀ ʙᴏᴛ : <a href=https://ᴀʀʏᴀs_ᴍᴏᴠɪᴇs_ғɪɴᴅᴇʀ_ʙᴏᴛ>ғɪʟᴛᴇʀ ʙᴏᴛ 🫶</a></b>"
 START_MSG = os.environ.get("START_MESSAGE", "<b>Hello!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</b>")
 try:
     ADMINS=[6376328008]
