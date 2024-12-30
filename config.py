@@ -10,7 +10,7 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6401414916:AAHx2_MGbexWEMecwIXXBzz42t2dHXKmTX4")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7758717132:AAE3IaKRVyat6TljmDSXKjrf5a8I19_vl6I")
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "7515868"))
 #Your API Hash from my.telegram.org
@@ -20,27 +20,27 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002292066966"))
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "Arya_Bro")
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "6081617163"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7345359023"))
 #Port
 PORT = os.environ.get("PORT", "8030")
 #Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://bestanimeandcartoonsclips:VrMTuRFUEZdKsoV7@cluster0.ayqz3o3.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://animefrnd44:NsPKDOrQXKyWbbYZ@cluster0.gxz90x8.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "aryabro")
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", " -1001798300759"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001507915878"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", " -1002233627155"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002402116407"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/97bdc7009062e5d9ef867-2f4e47d5efdcf6038b.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/dc14717927ef75bdee500-7ba298be2fcf353255.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/0338e5f9959b111abc01b.jpg")
 
-HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Telugu_Movies_999\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Telugu_Movies_999>Telugu Movies 999 💓</a></b>"
-ABOUT_TXT = "<b>💓 Owner (Arya) : <a href=https://t.me/Arya_Bro>Arya Bro❤‍🔥</a>\n🫡 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Telugu_movies_999>Telugu Movies 999</a>\n🥵 L€@k$: <a href=https://t.me/+4QSB2tPk-ME2NDdl>clg girl and luvrs 😛</a>\n 🔞 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+aph6xGmeXgU2NzFl>Adult Movies</a>\n🫰 ғɪʟᴛᴇʀ ʙᴏᴛ : <a href=https://t.me/Aryas_Movies_Finder_bot>ғɪʟᴛᴇʀ ʙᴏᴛ 🫶</a></b>"
+HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @TELUGU_SARUKU_BITLU\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/TELUGU_SARUKU_BITLU>TELUGU SARUKU BITLU 💓</a></b>"
+ABOUT_TXT = "<b>💓 Owner  : <a href=https://t.me/Jin_Woo_Bro>Bro❤‍🔥</a>\n🫡 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.meTELUGU_SARUKU_BITLU>TELUGU SARUKU BITLU</a>\n🥵 L€@k$: <a href=https://t.me/+4QSB2tPk-ME2NDdl>clg girl and luvrs 😛</a>\n 🔞 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+aph6xGmeXgU2NzFl>Adult Movies</a>\n🫰 ғɪʟᴛᴇʀ ʙᴏᴛ : <a href=https://t.me/Aryas_Movies_Finder_bot>ғɪʟᴛᴇʀ ʙᴏᴛ 🫶</a></b>"
 START_MSG = os.environ.get("START_MESSAGE", "<b>Hello!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</b>")
 try:
     ADMINS=[6081617163]
-    for x in (os.environ.get("ADMINS", "7179779107 2085067057 2066626554 1676717784").split()):
+    for x in (os.environ.get("ADMINS", "7179779107 7345359023 2085067057 2066626554 1676717784").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
